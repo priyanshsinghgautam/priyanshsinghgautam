@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Priyansh Singh Gautam</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
@@ -74,7 +74,7 @@
   <a href="mailto:priyanshgautam45@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://priyanshsinghgautam.github.io/my-profile-card/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
