@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me 
  
-- 🔭 I’m currently working on **[your current project or learning focus]**
+- 🔭 I’m currently working on **ai weather app**
 - 🌱 I’m improving my skills in **Java, Spring Boot, React, and SQL**
 - 🧠 I love solving problems with **clean code and efficient algorithms**
 - 💬 Ask me about **Java, Full Stack Development, SQL optimization, Excel automation**
