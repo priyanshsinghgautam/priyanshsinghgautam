@@ -58,13 +58,6 @@
 
 ---
 
-### 📂 Projects
-
-- 🔧 [**Project 1 Name**](https://github.com/yourusername/project1): A brief description
-- 💡 [**Project 2 Name**](https://github.com/yourusername/project2): A brief description
-
----
-
 ### 🔗 Connect with Me
 
 <p align="left">
